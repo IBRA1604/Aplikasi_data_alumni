@@ -11,10 +11,6 @@ Pendataan Alumni adalah aplikasi berbasis android untuk mendata alumni dari sebu
   6.  SharedPreference
   7.  Sqlite
 
-#### [Demo Apps in Youtube]
-
-Demo Apps [link](https://www.youtube.com/watch?v=DKeU_49yPAc)
-
 ### [Screenshoot Splash Screen and Login]
 
 <img src="/app/ss/splash_screen.jpg" width="270" height="585"> <img src="/app/ss/login.jpg" width="270" height="585">
